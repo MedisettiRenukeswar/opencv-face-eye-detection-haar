@@ -129,14 +129,14 @@ It builds the mental bridge between:
 ## 📸 Output Preview (Replace with your own images)
 
 ### Live Detection (Annotated)
-`outputs/webcam_faces_snapshot_4.jpg`
-`outputs/webcam_faces_snapshot_5.jpg`
+![1](outputs/webcam_faces_snapshot_5.jpg)
+![2](outputs/webcam_faces_snapshot_4.jpg)
 
 ### Face ROI Detection
-`outputs/webcam_faces_snapshot_2.jpg`
+![3](outputs/webcam_faces_snapshot_2.jpg)
 
 ### Eye Detection Inside Face
-`outputs/webcam_faces_snapshot_1.jpg`
+![4](outputs/webcam_faces_snapshot_1.jpg)
 
 ---
 
